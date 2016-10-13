@@ -13,6 +13,15 @@ bin/
 gen/
 out/
 
+local.properties
+.settings/
+.loadpath
+.recommenders
+
+# Eclipse Core
+.project
+
+
 # Gradle files
 .gradle/
 build/
