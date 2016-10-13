@@ -17,6 +17,7 @@ local.properties
 .settings/
 .loadpath
 .recommenders
+.mvn
 
 # Eclipse Core
 .project
